@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sarah Salimian
-- 👩🏻‍💻 I'm a programmer for about 6 years
+- 👩🏻‍💻 I've been a programmer for about 6 years
 - 👀 I’m interested in programming and playing an instrument
 - 🌱 I’m currently learning artificial intelligence at SBU
 <!--- - 💞️ I’m looking to collaborate on ... --->
